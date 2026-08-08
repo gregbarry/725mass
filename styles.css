@@ -23,7 +23,7 @@ body {
 .hero {
   position: relative;
   flex: 1;
-  background-image: url('https://725mass.com/images/725_hero.jpg');
+  background-image: url('https://725mass.com/725_hero.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
